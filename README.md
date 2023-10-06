@@ -19,7 +19,7 @@ Install required packages ([selenium](https://pypi.org/project/selenium/) and [b
 
 ### Long: In my case, the code is:
 ```sh
-py -m pip install -r requirement.txt
+py -m pip install -r requirements.txt
 ```
 
 Modify these lines in the code `config.py` to point to your path of Chrome and chromedriver.
